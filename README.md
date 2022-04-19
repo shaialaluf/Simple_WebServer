@@ -1,3 +1,4 @@
 # Simple_WebServer
 
-![image](https://user-images.githubusercontent.com/65036888/164083079-97e296a0-a511-445f-9e50-59b7e0bc68e4.png)
+![image](https://user-images.githubusercontent.com/65036888/164083265-1d4d8928-9e73-4ae9-b58b-72ed8517b3f8.png)
+
